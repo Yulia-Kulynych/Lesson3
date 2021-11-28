@@ -1,0 +1,25 @@
+
+body{
+	background-image: url(./background56.jpg);
+}
+div {
+	font-weight:600;
+	line-height: 1.5;
+	font-size: 1em;
+}
+
+.first {
+	color: #6d5f62;
+}
+.second {
+	color: wheat;
+}
+.third{
+	color: rgb(35, 161, 31);
+}
+.fourth {
+	color: hsl(165, 67%, 33%);
+}
+.fifth{
+	color:rgba(10, 50, 255, 0.5);
+}
