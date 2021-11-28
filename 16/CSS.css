@@ -1,0 +1,6 @@
+div{
+	border: 1px solid black;
+	width: 100px;
+	margin-left: 50px;
+	box-shadow: -20px 0px 8px 0px green, 20px 0px 8px 0px red;
+}
