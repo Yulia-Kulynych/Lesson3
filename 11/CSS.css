@@ -1,0 +1,21 @@
+div {
+	background-color: red;
+	width: 100px;
+	height: 100px;
+}
+
+.first {
+	background-color: blue;
+	width: 50%;
+	height: 50%;
+	margin: 50%;
+	margin-bottom: 0%;
+}
+
+.second {
+	background-color: blue;
+	width: 50%;
+	height: 50%;
+	margin: 50%;
+	margin: 0%;
+}
