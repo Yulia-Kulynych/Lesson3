@@ -1,0 +1,20 @@
+
+.one {
+	border:  solid 1px black;
+	box-shadow: -40px -40px 17px 13px red, 40px 40px 17px 20px blue;
+	width: 400px;
+	height: 200px;
+	margin: 100px;
+}
+
+.two{
+	background-image: url(./w3c.jpg);
+	width: 400px;
+	height: 200px;
+	
+	background-repeat: round;
+	
+	box-shadow: inset 20px -20px 13px 10px green, 
+	inset -20px 20px 16px 11px black;
+
+}
